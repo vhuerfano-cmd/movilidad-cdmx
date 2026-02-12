@@ -1,0 +1,9 @@
+*.psd
+*.ai
+*.mov
+*.mp4
+*.tmp
+.DS_Store
+.DS_Store?
+.vscode/
+*docs
