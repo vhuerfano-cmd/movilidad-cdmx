@@ -1,13 +1,13 @@
 body {   
     background: black;
     color: white;
-    font-family:'Vandertak CAPSLOCK', sans-serif;
+    font-family: "parabolica", sans-serif;
 }
 a {
     color: inherit; 
 }
 h1 {
-    font-family: "Parabolica", sans-serif;
+    font-family:"vandertak-capslock-top";
     font-variation-settings: "SEED" 0, "wdth"100;
 
 }
