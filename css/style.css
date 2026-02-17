@@ -1,6 +1,7 @@
 body {   
     background: black;
     color: white;
+    font-family:'Vandertak CAPSLOCK', sans-serif;
 }
 a {
     color: inherit; 
