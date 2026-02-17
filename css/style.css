@@ -5,3 +5,8 @@ body {
 a {
     color: inherit; 
 }
+h1 {
+    font-family: "Parabolica", sans-serif;
+    font-variation-settings: "SEED" 0, "wdth"100;
+
+}
